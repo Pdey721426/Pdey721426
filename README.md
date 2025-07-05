@@ -36,21 +36,45 @@ I'm a passionate web designer stepping into the world of full stack development 
 
 ---
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=prakashdey&theme=radical&no-frame=true&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📈 GitHub Stats
 
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakashdey&show_icons=true&theme=radical)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashdey&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=prakashdey&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+---
+
+### 📊 Contribution Graph
+
+![Prakash's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prakashdey&theme=radical)
+
+---
+
 ### ✨ Fun Fact
+
 > “Design creates culture. Culture shapes values. Values determine the future — and I love being part of that journey through code and creativity.”
 
 ---
 
 ### 🔗 Let's Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/prakashdey)
 [![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=google-chrome&logoColor=black)](https://yourportfolio.com)
 
+---
+
+### 👁️‍🗨️ Visitor Count
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=prakashdey&label=Visitors&color=blue&style=flat)
