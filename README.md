@@ -69,9 +69,9 @@ I'm a passionate web designer stepping into the world of full stack development 
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakashdey07/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/prakashdey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=flat&logo=google-chrome&logoColor=black)](https://yourportfolio.com)
+
 
 ---
 
