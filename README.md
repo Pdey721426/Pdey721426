@@ -70,7 +70,7 @@ I'm a passionate web designer stepping into the world of full stack development 
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakashdey07/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/prakashdey)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Pdey721426)
 
 
 ---
