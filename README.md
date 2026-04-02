@@ -1,20 +1,19 @@
-# 🌐 Prakash Dey — Portfolio & Developer Profile
+# 👋 Hi there, I'm Prakash Dey  
 
-## 👋 Hi there, I'm **Prakash Dey**
-### 🎨 Web Designer | 💻 MERN Stack Developer (Learning) | 🌌 Space Enthusiast  
-
+## 🎨 Web Designer | 💻 MERN Stack Developer in Progress | 🌌 Curious About Space  
+🌐 **Portfolio:** 👉 https://prakash-portfolio07.netlify.app/
 
 ---
 
 ## 🚀 What I'm Doing Right Now
 - 👨‍💻 Working as a **Web Designer**
 - 🌱 Learning **MERN Stack** (MongoDB, Express, React, Node.js)
-- 📚 Sharpening **Git & GitHub** skills
-- 🎨 Improving design workflow using **Photoshop, Illustrator, Canva, Adobe Express**
+- 🧠 Exploring **Git & GitHub**
+- 🎨 Enhancing creative skills with **Photoshop, Illustrator, Canva, Adobe Express**
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🛠️ Tech & Tools
 
 ### 💻 Development
 ![HTML5](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,7 +27,7 @@
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🎨 Design Tools
+### 🎨 Design
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -36,26 +35,28 @@
 
 ---
 
-## 🏆 GitHub Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pdey721426&theme=radical&no-frame=true&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Achievements  
+> The main service was paused. Using the **Rust Mirror** (always working)!
+
+[![trophy](https://github-profile-trophy-rust.vercel.app/?username=Pdey721426&theme=radical&no-frame=true&column=6&margin-w=15)](https://github-profile-trophy-rust.vercel.app)
 
 ---
 
 ## 📈 GitHub Stats  
-![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakashdey&show_icons=true&theme=radical)
+![Prakash's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pdey721426&show_icons=true&theme=radical)
 
 ### 🧩 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakashdey&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pdey721426&layout=compact&theme=radical)
 
 ---
 
 ## 🔥 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=prakashdey&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=Pdey721426&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
 ## 📊 Contribution Graph  
-![Prakash's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=prakashdey&theme=radical)
+![Prakash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pdey721426&theme=radical)
 
 ---
 
@@ -64,13 +65,10 @@
 
 ---
 
-## 🔗 Let's Connect   
+## 🔗 Let's Connect  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://prakash-portfolio07.netlify.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakashdey07/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Pdey721426)
 
 ---
-
-## 👁️‍🗨️ Visitor Count  
-![Visitor Badge](https://komarev.com/ghpvc/?username=prakashdey&label=Visitors&color=blue&style=flat)
